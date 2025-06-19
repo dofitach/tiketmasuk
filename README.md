@@ -1,4 +1,4 @@
 ini adalah aplikasi untuk ticket masuk pariwisata, sedang di kembangkan
 
-created BY : Dofitach
-*bukan opensource
+<div>created BY : Dofitach
+</div>
